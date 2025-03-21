@@ -3,7 +3,7 @@ import time
 import random
 
 # Game setup
-delay = 0.1
+delay = 0.2
 score = 0
 high_score = 0
 
@@ -26,7 +26,7 @@ head.direction = "stop"
 food = turtle.Turtle()
 food.speed(0)
 food.shape("circle")
-food.color("red")
+food.color("green")
 food.penup()
 food.goto(0, 100)
 
