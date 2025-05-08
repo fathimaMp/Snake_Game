@@ -27,10 +27,3 @@ Use your keyboard to control the red snake, eat green food to grow, and avoid cr
 
 ---
 
-## 💻 How to Run
-
-1. **Clone the repo**:
-
-```bash
-git clone https://github.com/your-username/snake-game-python.git
-cd snake-game-python
