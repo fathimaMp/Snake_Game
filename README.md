@@ -1,4 +1,4 @@
-# 🐍 Classic Snake Game using Python Turtle
+#  Classic Snake Game using Python Turtle
 
 A simple yet addictive Snake game built with Python's built-in `turtle` module. 
 Use your keyboard to control the red snake, eat green food to grow, and avoid crashing into the walls or yourself!
